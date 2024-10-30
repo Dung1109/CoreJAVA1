@@ -17,7 +17,7 @@ public class Ex5 {
     }
 
     public static void main(String[] args) {
-        int a[] = {1,2,3,8 };
+        int a[] = {1,2,5};
         Ex5 exercises = new Ex5();
         System.out.println(exercises.smallestNumberNotEqualsSumOfAnyIntegersInArray(a));
     }
